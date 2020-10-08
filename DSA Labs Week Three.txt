@@ -26,7 +26,7 @@ FOR  count == 0; count <= stopping point; count ++
 	
 	THEN
 		print average
-	END		
+END		
 		
 		
 		
